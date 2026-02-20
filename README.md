@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi! I'm <span style="color: #A020F0; background: -webkit-linear-gradient(#FFD700, #A020F0); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">CISE</span>
+# Hi! I'm CISE
 
 
 ## IT Student
@@ -14,41 +14,39 @@
 </div>
 
 <div align="center">
+  
   <a href="https://github.com/Cise07">
     <img src="https://avatars.githubusercontent.com/u/133041468?s=400&u=243c3b9af8baf853b5a186853078f8f9e90db2ef&v=4" alt="Your Name's Profile Picture" width="300" height="300" style="border-radius: 50%;">
   </a>
   <br>
   <br>
-  <p>
-    <a href="https://github.com/Cise07">
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-    </a>
-    <a href="https://github.com/Cise07">
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-    </a>
-    <a href="https://github.com/Cise07">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    </a>
-    <a href="https://github.com/Cise07">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    </a>
-  </p>
+
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+    
 </div>
 
-<div align="center" style="width:50%;margin:auto">
+<div align="center">
 
 ### 👨‍💻 About Me
 
-I'm currently an IT student with a strong passion for coding and technology. I enjoy learning new programming languages and frameworks, and I'm always looking for new challenges to improve my skills. My interests include software development, web development, and exploring the latest tech trends.
+I'm currently an IT student with a strong passion for coding and technology. 
+
+I enjoy learning new programming languages and frameworks, and I'm always looking for new challenges to improve my skills. 
+
+My interests include software development, web development, and exploring the latest tech trends.
 
 ---
 </div>
-<div align="center" style="width:25%;margin:auto">
+<div align="center" >
 
 ### 🛠️ Technologies & Tools
 
-* **Languages:** Java, PHP, HTML, CSS, Python
-* **Tools:** Git, GitHub, VS Code.
+**Languages:** Java, PHP, HTML, CSS, Python
+
+**Tools:** Git, GitHub, VS Code.
 
 </div>
 
