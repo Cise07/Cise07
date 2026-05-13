@@ -53,11 +53,17 @@ My interests include software development, web development, and exploring the la
 
 ---
 
-<p align="center">
+<div align="center">
+  
+  ### 🔗 Connect with me
+  
   <a href="https://www.instagram.com/24.7_cise?igsh=MWNveDA3dXFwZGpw&utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+   <a href="https://leetcode.com/u/CISE/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="mailto:ciseriagabriele@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-</p>
+</div>
